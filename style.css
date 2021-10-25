@@ -1,0 +1,42 @@
+
+.wrapper {
+    width: 300px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: #d4d471;
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+
+.wrapper .counter {
+    color: #fff;
+    font-size: 45px;
+    padding-top: 30px;
+}
+
+.wrapper .thisCounter {
+    padding-top: 20px;
+    font-size: 160px;
+    color: green;
+}
+
+.wrapper .button1 button {
+    color: #fff;
+    background-color: rgb(36, 36, 224);
+    border-radius: 5px;
+    height: 30px;
+}
+
+.wrapper .button1 {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.wrapper .button2 button {
+    color: #fff;
+    background-color: rgb(36, 36, 224);
+    border-radius: 5px;
+    height: 30px;
+}
